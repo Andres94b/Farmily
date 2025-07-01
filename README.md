@@ -2,7 +2,13 @@
 # Welcome to Farmily
 This is an android project developed using Java, Firebase NoSql, SquareUp Picasso.
 
-![The Farmily Icon](/app/src/main/res/mipmap-xxhdpi/farmily_logo.jpg)
+<figure>
+    <img src="/app/src/main/res/mipmap-xxhdpi/farmily_logo.jpg" width="200" height="100">
+         alt="homeScreen, Home Screen">
+    <figcaption>Home Screen</figcaption>
+</figure>
+
+![The Farmily Icon]()
 
 ## What is Farmily?
 It is an app that allows users acquire farm products directly from farmers and producers.
@@ -20,7 +26,17 @@ The choice came across as a solution for these problems. This project will facil
 - Payment System - Manage payments
 - Notifications – Get alerts for orders, discounts. 🚜📦
 
-## Home Screen
+## The App
 The home screen allows any user to explore the available products even without having an account. From our perspective, this would encourage people to sing up based on the products they see.
 
-![The Home Screen](/app/src/main/res/drawable/home_screen_farmily.png)
+<figure>
+    <img src="/app/src/main/res/drawable/home_screen_farmily.png">
+         alt="homeScreen, Home Screen">
+    <figcaption>Home Screen</figcaption>
+</figure>
+
+## Authors
+- [Pratiksha Dutta](https://github.com/Prats0509)
+- [Joaquin Cervantes](https://github.com/JofeCC)
+- [Luis Cantor](https://github.com/cantorLacs)
+- [Andres Bonilla](https://github.com/Andres94b)
