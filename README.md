@@ -31,7 +31,7 @@ Android Studio Ladybug Feature Drop | 2024.2.2 Patch 2
 ## The App
 The home screen allows any user to explore the available products even without having an account. From our perspective, this would encourage people to sing up based on the products they see.
 <figure>
-    <img src="/app/src/main/res/drawable/signup_farmily.png.png" width="300" height="auto" alt="signupScreen, Sign Up Screen">
+    <img src="/app/src/main/res/drawable/signup_farmily.png" width="300" height="auto" alt="signupScreen, Sign Up Screen">
     <figcaption>Sign Up Screen Screen</figcaption>
 </figure>
 <figure>
