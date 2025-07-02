@@ -29,16 +29,9 @@ This is an android app developed in android studio using Java, Firebase NoSql, S
 Android Studio Ladybug Feature Drop | 2024.2.2 Patch 2
 
 ## The App
-The home screen allows any user to explore the available products even without having an account. From our perspective, this would encourage people to sing up based on the products they see.
-
-<div style="flex">
-    <figure>
-        <img src="/app/src/main/res/drawable/signup_farmily.png" width="300" height="auto" alt="signupScreen, Sign Up Screen">
-    </figure>
-    <figure>
-        <img src="/app/src/main/res/drawable/home_screen_farmily.png" width="300" height="auto" alt="homeScreen, Home Screen">
-    </figure>
-</div>
+The home screen allows any user to explore the available products even without having an account. This would encourage people to sing up based on the products they see.
+The User management pages are connected to a realtime Database on Firebase. This is a NoSql database that we use not only for the users but also for the listings and all records.
+The images are being stored on Github for testing purpose but any cloud service could be implemented.
 
 ### Watch o video
 
