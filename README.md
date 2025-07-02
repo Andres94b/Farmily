@@ -1,9 +1,8 @@
 
 # Welcome to Farmily
-This is an android project developed using Java, Firebase NoSql, SquareUp Picasso.
 
 <figure>
-    <img src="/app/src/main/res/mipmap-xxhdpi/farmily_logo.jpg" width="200" height="100" alt="homeScreen, Home Screen">
+    <img src="/app/src/main/res/mipmap-xxhdpi/farmily_logo.jpg" width="200" height="auto" alt="homeScreen, Home Screen">
     <figcaption>Home Screen</figcaption>
 </figure>
 
@@ -23,11 +22,20 @@ The choice came across as a solution for these problems. This project will facil
 - Payment System - Manage payments
 - Notifications – Get alerts for orders, discounts. 🚜📦
 
+## Development
+This is an android app developed in android studio using Java, Firebase NoSql, SquareUp Picasso.
+
+### Android Studio Version
+Android Studio Ladybug Feature Drop | 2024.2.2 Patch 2
+
 ## The App
 The home screen allows any user to explore the available products even without having an account. From our perspective, this would encourage people to sing up based on the products they see.
-
 <figure>
-    <img src="/app/src/main/res/drawable/home_screen_farmily.png" alt="homeScreen, Home Screen">
+    <img src="/app/src/main/res/drawable/signup_farmily.png.png" width="300" height="auto" alt="signupScreen, Sign Up Screen">
+    <figcaption>Sign Up Screen Screen</figcaption>
+</figure>
+<figure>
+    <img src="/app/src/main/res/drawable/home_screen_farmily.png" width="300" height="auto" alt="homeScreen, Home Screen">
     <figcaption>Home Screen</figcaption>
 </figure>
 
