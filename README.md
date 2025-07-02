@@ -42,7 +42,7 @@ The home screen allows any user to explore the available products even without h
 
 ### Watch o video
 
-[![Demo Video](https://img.youtube.com/vi/9CKMqmhNcUc/3.jpg)](https://youtube.com/shorts/9CKMqmhNcUc?si=iBz6RVuczx_KhQfB)
+[![Demo Video](https://img.youtube.com/vi/9CKMqmhNcUc/0.jpg)](https://youtube.com/shorts/9CKMqmhNcUc?si=iBz6RVuczx_KhQfB)
 
 
 ## Authors
