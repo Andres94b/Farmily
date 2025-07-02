@@ -32,7 +32,7 @@ Android Studio Ladybug Feature Drop | 2024.2.2 Patch 2
 The home screen allows any user to explore the available products even without having an account. From our perspective, this would encourage people to sing up based on the products they see.
 
 <video width="320" height="auto" controls>
-  <source src="demo.mkv" type="video/mkv">
+  <source src="/app/src/main/res/drawable/demo.mkv" type="video/mkv">
 </video>
 
 <div style="flex">
