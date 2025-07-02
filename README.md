@@ -37,7 +37,7 @@ The home screen allows any user to explore the available products even without h
 </video>
 </figure>
 
-![Demo Video](/app/src/main/res/drawable/demo.mkv)
+![Demo Video](https://img.youtube.com/vi/9CKMqmhNcUc/1.jpg)(https://youtube.com/shorts/9CKMqmhNcUc?si=iBz6RVuczx_KhQfB)
 
 <div style="flex">
     <figure>
